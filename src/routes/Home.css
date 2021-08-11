@@ -1,0 +1,10 @@
+.read-more {
+    text-decoration: none;
+    color: green;
+    font-weight: 500;
+}
+
+.read-more:hover {
+  color: black;
+  text-decoration: underline;
+}

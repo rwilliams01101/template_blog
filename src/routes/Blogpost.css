@@ -1,0 +1,18 @@
+.hr-line {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    height: 1.5px;
+    width: 100vw;
+    background-color: rgba(0, 0, 0, 0.192);
+}
+@media screen and (min-width: 992px) {
+    .hr-line {
+        margin-top: 2em;
+        margin-bottom: 1em;
+        margin-left: auto;
+        margin-right: auto;
+        height: 1.5px;
+        width: 80vw;
+        background-color: rgba(0, 0, 0, 0.192);
+    }
+  }

@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url('../../assets/images/background_short.png');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  height: 100vh;
+  background-attachment: fixed;
+}

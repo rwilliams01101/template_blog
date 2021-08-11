@@ -1,0 +1,9 @@
+.navbar {
+    margin-bottom: 1em;
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.navbar-main-font {
+    font-size: x-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
