@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/template_blog/static/css/main.47e4c042.chunk.css",
+    "main.js": "/template_blog/static/js/main.5c4fb1e1.chunk.js",
+    "main.js.map": "/template_blog/static/js/main.5c4fb1e1.chunk.js.map",
+    "runtime-main.js": "/template_blog/static/js/runtime-main.9a519aee.js",
+    "runtime-main.js.map": "/template_blog/static/js/runtime-main.9a519aee.js.map",
+    "static/js/2.51709c4c.chunk.js": "/template_blog/static/js/2.51709c4c.chunk.js",
+    "static/js/2.51709c4c.chunk.js.map": "/template_blog/static/js/2.51709c4c.chunk.js.map",
+    "index.html": "/template_blog/index.html",
+    "static/css/main.47e4c042.chunk.css.map": "/template_blog/static/css/main.47e4c042.chunk.css.map",
+    "static/js/2.51709c4c.chunk.js.LICENSE.txt": "/template_blog/static/js/2.51709c4c.chunk.js.LICENSE.txt",
+    "static/media/angelo-pantazis.2da01848.jpg": "/template_blog/static/media/angelo-pantazis.2da01848.jpg",
+    "static/media/App.css": "/template_blog/static/media/background_short.84baa066.png",
+    "static/media/elijah-g.fbbce9a6.jpg": "/template_blog/static/media/elijah-g.fbbce9a6.jpg",
+    "static/media/james-timothy.1106052e.jpg": "/template_blog/static/media/james-timothy.1106052e.jpg",
+    "static/media/pakata-goh.ec8a57af.jpg": "/template_blog/static/media/pakata-goh.ec8a57af.jpg",
+    "static/media/s-o-c-i-a-l-c-u-t.a76b8850.jpg": "/template_blog/static/media/s-o-c-i-a-l-c-u-t.a76b8850.jpg",
+    "static/media/tracy-adams.3e051a35.jpg": "/template_blog/static/media/tracy-adams.3e051a35.jpg",
+    "static/media/under_construction.693e5028.png": "/template_blog/static/media/under_construction.693e5028.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a519aee.js",
+    "static/js/2.51709c4c.chunk.js",
+    "static/css/main.47e4c042.chunk.css",
+    "static/js/main.5c4fb1e1.chunk.js"
+  ]
+}
