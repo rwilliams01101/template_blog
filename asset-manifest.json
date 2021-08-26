@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/template_blog/static/css/main.47e4c042.chunk.css",
-    "main.js": "/template_blog/static/js/main.5c4fb1e1.chunk.js",
-    "main.js.map": "/template_blog/static/js/main.5c4fb1e1.chunk.js.map",
+    "main.css": "/template_blog/static/css/main.ed3d3035.chunk.css",
+    "main.js": "/template_blog/static/js/main.2fba1f3a.chunk.js",
+    "main.js.map": "/template_blog/static/js/main.2fba1f3a.chunk.js.map",
     "runtime-main.js": "/template_blog/static/js/runtime-main.9a519aee.js",
     "runtime-main.js.map": "/template_blog/static/js/runtime-main.9a519aee.js.map",
     "static/js/2.51709c4c.chunk.js": "/template_blog/static/js/2.51709c4c.chunk.js",
     "static/js/2.51709c4c.chunk.js.map": "/template_blog/static/js/2.51709c4c.chunk.js.map",
     "index.html": "/template_blog/index.html",
-    "static/css/main.47e4c042.chunk.css.map": "/template_blog/static/css/main.47e4c042.chunk.css.map",
+    "static/css/main.ed3d3035.chunk.css.map": "/template_blog/static/css/main.ed3d3035.chunk.css.map",
     "static/js/2.51709c4c.chunk.js.LICENSE.txt": "/template_blog/static/js/2.51709c4c.chunk.js.LICENSE.txt",
     "static/media/angelo-pantazis.2da01848.jpg": "/template_blog/static/media/angelo-pantazis.2da01848.jpg",
     "static/media/App.css": "/template_blog/static/media/background_short.84baa066.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.9a519aee.js",
     "static/js/2.51709c4c.chunk.js",
-    "static/css/main.47e4c042.chunk.css",
-    "static/js/main.5c4fb1e1.chunk.js"
+    "static/css/main.ed3d3035.chunk.css",
+    "static/js/main.2fba1f3a.chunk.js"
   ]
 }
