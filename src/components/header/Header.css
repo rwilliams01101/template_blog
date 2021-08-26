@@ -1,0 +1,19 @@
+.header-align {
+    text-align: left;
+    margin-left: 0.5em;
+    margin-bottom: 10px;
+}
+
+.blog-header {
+    font-size: xx-large;
+    font-weight: 200;
+    color: rgb(82, 172, 122);
+}
+
+.header-details { 
+    font-style: italic;
+    font-size: 12px;
+    margin-top: -5px;
+    margin-left: 5px;
+
+}

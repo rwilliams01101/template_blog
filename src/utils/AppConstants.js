@@ -11,9 +11,9 @@ import secondImageTwo from '../assets/images/tracy-adams.jpg' // Image courtesy 
 // SWAP_ME for your Blog Post Previews. They will load on the homepage.
 export const Preview_Values = [
   // First Sample Post - anything entered in here will populate the homepage
-    { src: `${firstPostImage}`, classes: "img img-lg-ctr", altText: "My First Post", id: "1", blogEntry: "I did it! Now follow/hire/pay/high-five me!"},
+    { src: `${firstPostImage}`, classes: "img img-lg-ctr", publishDate: "26.08.2021", altText: "My First Post", id: "1", blogEntry: "I did it! Now follow/hire/pay/high-five me!", writtenBy:"Alan Williams"},
   // Second Sample Post  
-    { src: `${secondPostImage}`, classes: "img img-lg-ctr", altText: "My Second Post", id: "2", blogEntry: "I got a job at an awesome place now, stand up meetings are my favorite part of the day!" },
+    { src: `${secondPostImage}`, classes: "img img-lg-ctr", publishDate: "26.08.2021", altText: "My Second Post", id: "2", blogEntry: "I got a job at an awesome place now, stand up meetings are my favorite part of the day!", writtenBy:"Alan Williams"},
 ];
 
 // SWAP_ME for your Full Blog Posts. They will load when user clicks on "Read full post" link. The previewValue attribute acts like a foreign key referencing the Sample Posts above.

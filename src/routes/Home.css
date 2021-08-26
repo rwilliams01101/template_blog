@@ -1,7 +1,10 @@
+.preview-wrapper {
+  margin-top: 1.25em;
+}
+
 .read-more {
-    text-decoration: none;
     color: green;
-    font-weight: 500;
+    text-decoration: none;
 }
 
 .read-more:hover {

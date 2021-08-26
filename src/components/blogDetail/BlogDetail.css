@@ -1,0 +1,18 @@
+.blog-detail {
+    padding-top: 0em;   
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: left;
+    font: 13px/1.65em "HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;
+    -webkit-text-size-adjust: 100%;
+    font-size: 22px;
+    line-height: 33px;
+    font-weight: 300;
+    color: #3d3d3d;
+}
+
+.blog-image {
+    border-radius: 0px;
+    width: 95vw;
+    box-shadow: none;
+}
