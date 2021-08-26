@@ -1,4 +1,5 @@
 # React Blog Template (Deployable to GitPages)
+## Deployed App: https://rwilliams01101.github.io/template_blog/
 
 You can have this up and running in five minutes flat, no joke. This is a template for a SPA (Single Page App) Blog. Through some non-best practices, it can be deployed directly to GitPages. If you really want to do this right, I've marked the questionable code and it's an easy fix.
 
